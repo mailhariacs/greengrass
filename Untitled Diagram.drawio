@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-06-17T21:42:40.489Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="wEedGMvzO4WvbeyU32Zc" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-17T21:43:50.287Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="CeEukhz-tPDbudP1_y1f" version="21.4.0" type="github">
   <diagram name="Page-1" id="I03FFbXBMHZsbbS1Ji2t">
     <mxGraphModel dx="1434" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="oVwYzbtBp_moHvJAuovS-1" value="grasshub" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oVwYzbtBp_moHvJAuovS-1" value="grassnet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="395" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="oVwYzbtBp_moHvJAuovS-2" value="sensor 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
